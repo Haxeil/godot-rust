@@ -1,6 +1,5 @@
 use gdnative_bindings::{Resource, ResourceLoader};
 use gdnative_core::{
-    core_types::NodePath,
     object::{memory::RefCounted, GodotObject, Ref, SubClass},
 };
 
